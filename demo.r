@@ -1,5 +1,6 @@
 #R language program
 print("Tejas bedke")
+print("Dattu bedke")
 
 d=12
 
